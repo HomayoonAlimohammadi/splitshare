@@ -8,7 +8,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/homayoonalimohammadi/splitshare/member"
+	"github.com/HomayoonAlimohammadi/splitshare/member"
 )
 
 var saveSuffix string = ".json"

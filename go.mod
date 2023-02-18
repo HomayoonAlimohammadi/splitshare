@@ -1,3 +1,3 @@
-module github.com/homayoonalimohammadi/splitshare
+module github.com/HomayoonAlimohammadi/splitshare
 
 go 1.19

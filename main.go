@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/homayoonalimohammadi/splitshare/events"
-	"github.com/homayoonalimohammadi/splitshare/member"
+	"github.com/HomayoonAlimohammadi/splitshare/events"
+	"github.com/HomayoonAlimohammadi/splitshare/member"
 )
 
 func main() {
